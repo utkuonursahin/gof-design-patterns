@@ -8,6 +8,6 @@ public class SportsCar extends CarDecorator{
     @Override
     public void print() {
         super.print();
-        System.out.print(" Adding features of Sports Car.");
+        System.out.println("Adding features of Sports Car.");
     }
 }

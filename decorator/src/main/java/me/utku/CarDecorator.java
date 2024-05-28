@@ -1,7 +1,7 @@
 package me.utku;
 
 public class CarDecorator implements Car{
-protected Car car;
+    protected Car car;
 
     public CarDecorator(Car car){
         this.car = car;
