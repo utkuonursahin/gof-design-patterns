@@ -1,0 +1,11 @@
+
+‹
+java:S1854
+"HRemove this useless assignment to local variable "changeChannelCommand".(ŠÙ¥Ô8´ùİ¡ü1J$ad48947e-6a6a-4a70-adf4-91750fc52031
+Š
+java:S1854	"BRemove this useless assignment to local variable "turnOffCommand".( ²ûíüÿÿÿÿ8´ùİ¡ü1J$7ebc1920-73cc-4480-9121-7a7c64fb3a65
+{
+java:S1481	"3Remove this unused "turnOffCommand" local variable.( ²ûíüÿÿÿÿ8¶ùİ¡ü1J$1698257d-66be-4324-96dc-8ef1b98e038c
+|
+java:S1481
+"9Remove this unused "changeChannelCommand" local variable.(ŠÙ¥Ô8¶ùİ¡ü1J$b954dae7-de46-455e-8d93-be42e08c5659

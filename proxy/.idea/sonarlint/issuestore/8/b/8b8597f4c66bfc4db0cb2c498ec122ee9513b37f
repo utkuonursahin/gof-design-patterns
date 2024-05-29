@@ -1,4 +1,6 @@
 
 m	java:S106"+Replace this use of System.out by a logger.(Çú¬Ü8ÑÅé€ü1J$24509110-a864-4ff4-93f3-60e4201fefed
+Z
+java:S1172"=Remove these unused method parameters "username", "password".(ÑŸõø8í‡¶„ü1
 m	java:S106"+Replace this use of System.out by a logger.(Õù•š8ÒÅé€ü1J$f258864b-6c0d-4d43-bd0e-a1ac2915ba3c
 m	java:S106"+Replace this use of System.out by a logger.(Æ¨®‚8•òé€ü1J$04044a34-6cae-4209-963f-b7e1af9a40b5

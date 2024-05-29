@@ -5,7 +5,6 @@ public class Main {
         Product product = new Product();
         product.attach(new CustomerObserver());
         product.attach(new CustomerObserver());
-
         product.changePrice();
     }
 }
