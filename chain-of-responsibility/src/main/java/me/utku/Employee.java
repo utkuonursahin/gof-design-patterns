@@ -1,10 +1,10 @@
 package me.utku;
 
 public abstract class Employee {
-    protected Employee nextAprrover;
+    protected Employee nextApprover;
 
-    public void setNextAprrover(Employee nextAprrover) {
-        this.nextAprrover = nextAprrover;
+    public void setNextApprover(Employee nextApprover) {
+        this.nextApprover = nextApprover;
     }
 
     public abstract void processRequest(MoneyWithdraw request);

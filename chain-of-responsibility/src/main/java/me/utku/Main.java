@@ -8,9 +8,9 @@ public class Main {
         Employee manager = new Manager();
         Employee regionManager = new RegionManager();
 
-        cashier.setNextAprrover(executive);
-        executive.setNextAprrover(manager);
-        manager.setNextAprrover(regionManager);
+        cashier.setNextApprover(executive);
+        executive.setNextApprover(manager);
+        manager.setNextApprover(regionManager);
 
         cashier.processRequest(moneyWithdraw);
     }
