@@ -9,5 +9,3 @@ T
 $src/main/java/me/utku/Container.java,4/3/4337179b43a56f36f638370f15668ab21a53c6e5
 Y
 )src/main/java/me/utku/NameRepository.java,8/e/8e97a170192c330cd9fcc741c07529e76ca665af
-W
-'src/main/java/me/utku/NameIterator.java,c/1/c1125846e2629743739d3f2fb249048a42fa7375

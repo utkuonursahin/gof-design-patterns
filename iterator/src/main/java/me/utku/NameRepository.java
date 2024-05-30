@@ -8,7 +8,7 @@ public class NameRepository implements Container{
     }
 
     public class NameIterator implements Iterator{
-        private int index;
+        private int index = 0;
 
         @Override
         public boolean hasNext() {

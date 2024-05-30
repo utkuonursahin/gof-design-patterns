@@ -2,7 +2,7 @@ package me.utku;
 
 public class Client {
 
-    public void ClientCode(Subject subject){
+    public void clientCode(Subject subject){
         subject.request("","");
     }
 }
